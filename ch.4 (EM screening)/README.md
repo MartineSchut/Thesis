@@ -1,0 +1,1 @@
+These codes have been used in chapter 4 "Relaxation of experimental parameters in the QGEM protocol using electromagnetic screening", which has been published in Phys. Rev. Res. 5 (2023) no.4, 043170.
